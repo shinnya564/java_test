@@ -1,3 +1,5 @@
+package sample.src.sample;
+
 class Sample_if {
   public static void main(String[] args) {
     int percent = 3;
